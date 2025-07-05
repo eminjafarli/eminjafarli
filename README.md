@@ -1,6 +1,6 @@
 ## 👋 Hi there, I am Emin Jafarli  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DB5F7&width=435&lines=Full-Stack+Developer;Java%2C+Spring+Boot%2C+React%2C+PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DB5F7&width=435&lines=Full-Stack+Web+Developer;Java+%26+React+Oriented+Engineer)](https://git.io/typing-svg)
 
 ---
 
