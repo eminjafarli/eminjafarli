@@ -1,26 +1,28 @@
- ## Hi there, I am Emin Jafarli👋
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03F700&width=435&lines=Full-Stack+Developer;Java%2C+Spring+Boot%2C+React%2C+PostgreSQL)](https://git.io/typing-svg)
+## 👋 Hi there, I am Emin Jafarli  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03F700&width=435&lines=Full-Stack+Developer;Java%2C+Spring+Boot%2C+React%2C+PostgreSQL)](https://git.io/typing-svg)
 
 ---
 
-### Open Source Projects
+### 🚀 Open Source Projects
+> *(You can list your best GitHub projects here with short descriptions and links)*  
+> Example:
+> - [User Management System](https://github.com/eminjafarli/user-management) – Spring Boot + JWT + Role-based access  
+> - [Item Management Panel](https://github.com/eminjafarli/item-panel) – React + Spring Boot + File Upload
 
 ---
 
-### Online Presence
+### 🌐 Online Presence
 
-<!-- markdownlint-disable MD033 -->
 <details>
-  <summary>📊 Github Stats</summary><br>
-  <img alt="Dinush Chathurya Github Stats" src="https://github-readme-stats.vercel.app/api?username=eminjafarli&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
+  <summary>📊 GitHub Stats</summary><br>
+  <img alt="Emin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eminjafarli&count_private=true&show_icons=true&theme=algolia" />
 </details>
 
 <details>
-  <summary>&#11088 Language Stats</summary><br>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminjafarli&theme=algolia&langs_count=15&layout=compact" />
+  <summary>📈 Top Languages</summary><br>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminjafarli&theme=algolia&langs_count=10&layout=compact" />
 </details>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
@@ -80,8 +82,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
   </a>
 </p>
+
 ---
-### 📫 Contact me:  
+
+### 📫 Contact Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/eminjaf" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
