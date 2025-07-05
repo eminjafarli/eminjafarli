@@ -28,8 +28,6 @@
 
 ### 💻 Tech Stack
 
-<!-- Programming Languages -->
-<p align="left">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>
   </a>
@@ -45,10 +43,6 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
   </a>
-</p>
-
-<!-- Frameworks & Libraries -->
-<p align="left">
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/>
   </a>
@@ -58,20 +52,12 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40"/>
   </a>
-</p>
-
-<!-- Databases -->
-<p align="left">
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
   </a>
-</p>
-
-<!-- OS & Tools -->
-<p align="left">
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>
   </a>
@@ -81,11 +67,10 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>
   </a>
-</p>
 
 ---
 
-### 📫 Contact Me
+###📫 Contact Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eminjaf" target="_blank">
