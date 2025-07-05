@@ -42,7 +42,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>](https://www.linux.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40"/>](https://www.microsoft.com/en-us/windows)
 
-
 ---
 
 ### 📫 Contact Me
