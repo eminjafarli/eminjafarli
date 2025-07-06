@@ -13,15 +13,11 @@
 
 ### 🌐 Online Presence
 
-<details>
   <summary>📊 GitHub Stats</summary><br>
   <img alt="Emin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eminjafarli&count_private=true&show_icons=true&theme=algolia" />
-</details>
 
-<details>
   <summary>📈 Top Languages</summary><br>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminjafarli&theme=algolia&langs_count=10&layout=compact" />
-</details>
 
 ---
 
