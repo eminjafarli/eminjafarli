@@ -5,8 +5,7 @@
 ---
 
 ### 🚀 Open Source Projects
-> *(You can list your best GitHub projects here with short descriptions and links)*  
-> Example:
+
 > - [User Management System](https://github.com/eminjafarli/user-management) – Spring Boot + JWT + Role-based access  
 > - [Item Management Panel](https://github.com/eminjafarli/item-panel) – React + Spring Boot + File Upload
 
