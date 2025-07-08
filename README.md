@@ -4,13 +4,6 @@
 
 ---
 
-### 🚀 Open Source Projects
-
-> - [User Management System](https://github.com/eminjafarli/user-management) – Spring Boot + JWT + Role-based access  
-> - [Item Management Panel](https://github.com/eminjafarli/item-panel) – React + Spring Boot + File Upload
-
----
-
 ### 🌐 Online Presence
 
   <summary>📊 GitHub Stats</summary><br>
