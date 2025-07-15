@@ -5,14 +5,14 @@
 ---
 
 ### 🌐 Online Presence
-
+<div>
   <summary>📊 GitHub Stats</summary><br>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminjafarli&show_icons=true&locale=en&layout=compact" alt="eminjafarli" /></p>
-
-
+</div>
+<div>
   <summary>📈 Top Languages</summary><br>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminjafarli&show_icons=true&locale=en" alt="eminjafarli" /></p>
-
+</div>
 
 ---
 
