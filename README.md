@@ -5,7 +5,7 @@
 ---
 
 ### 🌐 Online Presence
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+<img src="https://widgetbite.com/stats/eminjafarli" alt="watching_count" />
 
   <summary>📊 GitHub Stats</summary><br>
   <img alt="Emin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eminjafarli&count_private=true&show_icons=true&theme=algolia" />
