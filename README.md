@@ -4,7 +4,7 @@
 ---
 
 ### 🌐 Online Presence
-#📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eminjafarli&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eminjafarli&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -32,8 +32,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eminjaf)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eminjafarli02@gmail.com?subject=GitHub%20Contact)
-
-
-
-
-
