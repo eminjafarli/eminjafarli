@@ -4,9 +4,7 @@
 ---
 
 ### Check out my [portfolio](https://eminjafarli.com)👀
-
 ---
-
 
 ### 🌐 Online Presence
 # 📊 GitHub Stats:
