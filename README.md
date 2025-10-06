@@ -5,6 +5,9 @@
 
 ### Check out my [portfolio](https://eminjafarli.com)👀
 
+---
+
+
 ### 🌐 Online Presence
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eminjafarli&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
