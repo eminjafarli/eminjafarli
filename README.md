@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DB5F7&width=435&lines=Full-Stack+Web+Developer;Java+%26+React+Oriented+Engineer)](https://git.io/typing-svg)
 ---
 
+### Check out my [portfolio](https://eminjafarli.com)👀
+
 ### 🌐 Online Presence
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eminjafarli&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
