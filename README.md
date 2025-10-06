@@ -30,7 +30,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/eminjaf)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40"/>](mailto:eminjafarli02@gmail.com?subject=GitHub%20Contact)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40"/>](https://t.me/eminV1)
-[<img src="<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/f2c499e8-e575-4367-a840-7037af687ebe" />
-" alt="WhatsApp" width="40"/>](mailto:eminjafarli02@gmail.com?subject=GitHub%20Contact)
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F20360&psig=AOvVaw3BAmoBwbFonnAeAFVow8_6&ust=1759839380986000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIi39dzGj5ADFQAAAAAdAAAAABAE" alt="WhatsApp" width="40"/>](https://t.me/eminV1)
+
 
 
