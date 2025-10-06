@@ -30,15 +30,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/eminjaf)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40"/>](mailto:eminjafarli02@gmail.com?subject=GitHub%20Contact)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40"/>](https://t.me/eminV1)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40"/>](mailto:eminjafarli02@gmail.com?subject=GitHub%20Contact)
-
- 
-  <a href="https://t.me/yourTelegramUsername" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/>
-  </a>
-  <a href="https://wa.me/994XXXXXXXXX" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
-  </a>
-</p>
+[<img src="<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/f2c499e8-e575-4367-a840-7037af687ebe" />
+" alt="WhatsApp" width="40"/>](mailto:eminjafarli02@gmail.com?subject=GitHub%20Contact)
 
 
