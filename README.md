@@ -15,7 +15,6 @@
 ---
 
 ### 💻 Tech Stack
-### 🧰 Tech Stack
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>](https://www.java.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/>](https://spring.io/projects/spring-boot)
@@ -34,7 +33,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>](https://git-scm.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>](https://www.linux.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/>](https://aws.amazon.com/)
-
 [<img src="https://cdn.simpleicons.org/apachekafka/E0E0E0" alt="Kafka" width="40"/>](https://kafka.apache.org/)
 
 
