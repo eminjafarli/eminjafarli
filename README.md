@@ -33,8 +33,9 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>](https://www.docker.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40"/>](https://git-scm.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40"/>](https://www.linux.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/>](https://aws.amazon.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg" alt="Kafka" width="40"/>](https://kafka.apache.org/)
+[<img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="40"/>](https://aws.amazon.com/)
+[<img src="https://cdn.simpleicons.org/apachekafka/231F20" alt="Kafka" width="40"/>](https://kafka.apache.org/)
+
 
 ---
 
