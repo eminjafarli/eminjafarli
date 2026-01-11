@@ -7,13 +7,6 @@
 ### Check out my [portfolio](https://eminjafarli.com)👀
 ---
 
-### 🌐 Online Presence
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=eminjafarli&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eminjafarli&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ### 💻 Tech Stack
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/>](https://www.java.com/)
